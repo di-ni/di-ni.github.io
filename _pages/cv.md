@@ -1,28 +1,31 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "About Me"
+# permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+# redirect_from:
+#   - /resume
 ---
 
 {% include base_path %}
 
-Education
+About me
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Di Ni is a postdoctoral researcher at Princeton University, working with Prof. Radhika Nagpal in the Department of Mechanical and Aerospace Engineering. She received her PhD (2022) in Electrical and Computer Engineering from Cornell University, where she was advised by Prof. Amit Lal. Her research lies at the intersection of MEMS and robotics, with a particular focus on developing small-scale robots for collective swarm operations in complex environments. Prior to her Ph.D., she earned her Master’s and Bachelor’s degrees in Physics from Cornell University and Beijing Normal University, respectively. She has been recognized as an RSS pioneer for 2024 and is the recipient of the Princeton SEAS Innovation Grant. 
+
+Education
+=====
+* Ph.D in Electrical and Computer Engineering, Cornell University, 2022 
+* M.S. in Applied Physics, Cornell University, 2017
+* B.S. in Physics, Beijing Normal University, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2022 - present: Postdoctoral Fellow, Princeton University
+  * Led the research on underwater collectives formation
+  * Supervisor: Radhika Nagpal
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -30,9 +33,9 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -51,9 +54,9 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
