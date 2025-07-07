@@ -38,6 +38,7 @@ with minimal communication.
 ## Underwater Miniaturized Robot Swarm
 
 (Coming soon)
+
 <!-- ### Key Research Components:
 - Swarm coordination algorithms for underwater environments
 - Miniaturized underwater vehicles 
