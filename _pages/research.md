@@ -4,6 +4,11 @@ title: Research
 permalink: /research/
 author_profile: true
 ---
+
+
+{% include base_path %}
+
+
 Nature showcases small organisms with remarkable
 individual locomotion and collective behaviors
 – from hummingbirds demonstrating great
@@ -61,5 +66,5 @@ new capabilities. -->
 - Compact sensing solutions -->
 
 ---
-
-*Research collaborations and funding opportunities are welcome. Please contact for more information.*
+<!-- 
+*Research collaborations and funding opportunities are welcome. Please contact for more information.* -->
