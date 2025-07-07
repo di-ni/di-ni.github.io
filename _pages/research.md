@@ -2,11 +2,17 @@
 layout: page
 title: Research
 permalink: /research/
+author_profile: true
 ---
+Nature showcases small organisms with remarkable
+individual locomotion and collective behaviors
+– from hummingbirds demonstrating great
+agility and precise hovering, to schools of fish
+navigating thousands of miles in adaptive group
+patterns. Imagine replicating such feats with
+swarms of small robots.
 
-My research draws inspiration from biological systems to overcome the challenges in miniaturize
-robotic swarms. I aim to develop cost-effective, small-scale robots for practical applications, such as exploring
-cluttered environments, monitoring ecosystems, and gathering high-resolution ocean observations.
+My research draws inspiration from biological systems to overcome the challenges in miniaturize robotic swarms. I aim to develop cost-effective, small-scale robots for practical applications, such as exploring cluttered environments, monitoring ecosystems, and gathering high-resolution ocean observations.
 
 # Research Areas
 
@@ -21,10 +27,10 @@ of an entirely vision-based 3D formation control, using a behavior-based leader-
 work establishes a foundation for creating fish-like robot swarms capable of moving in energy-efficient
 formations, mimicking the behavior of natural fish schools.
 
-### Key Research Components:
+<!-- ### Key Research Components:
 - Swarm coordination algorithms for underwater environments
 - Miniaturized underwater vehicles 
-- Bio-inspired design principles
+- Bio-inspired design principles -->
 
 
 
@@ -35,13 +41,14 @@ systems over the past two decades, most platforms
 lack sufficient payload capacity for onboard power
 due to size constraints. Developing strong actuators
 and compact power supplies is thus crucial for realizing
-full autonomous operation in small robots. While
+full autonomous operation in small robots.
+ <!-- While
 individual miniature robots have limited payload and
 computing capacity, exploring swarm strategies can
 potentially overcome these limitations and unlock
-new capabilities.
+new capabilities. -->
 
-### Key Areas:
+<!-- ### Key Areas:
 - Micro-actuators 
 - Miniaturized power system
 - Advanced manufacturing techniques
@@ -51,7 +58,7 @@ new capabilities.
 - MEMS-based actuators
 - Smart material applications
 - Micro-scale power systems
-- Compact sensing solutions
+- Compact sensing solutions -->
 
 ---
 
