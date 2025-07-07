@@ -21,17 +21,23 @@ My research draws inspiration from biological systems to overcome the challenges
 
 # Research Areas
 
+## Formation Control in Swarm using Implicit Cooridination
+The schooling behavior of fish is hypothesized to confer many survival benefits, including foraging success, safety
+from predators, and energy savings through hydrodynamic interactions when swimming in formation. Underwater robot
+collectives may achieve similar benefits using formation control in future applications, e.g. efficient spatial sampling for
+environmental monitoring. Although many theoretical algorithms exist for multi-robot formation control, few have been
+tested in the underwater domain due to fundamental challenges in underwater communication. Here, we introduce a
+leader-follower strategy that enables the first realizations of complex three-dimensional (3D) underwater formations
+using visual information alone. We successfully demonstrate leader-follower pairs executing various 3D following
+configurations (inline, staggered, and side-by-side formations) and further showcase a multi-robot diamond formation.
+Comparisons between experimental results and simulation predictions highlight formation-specific challenges for
+underwater environments, particularly in visual perception, fluid dynamic control, and resource-constrained onboard
+computing. These findings lay the foundation for future applications of underwater robot swarms in aquatic environments
+with minimal communication.
+
 ## Underwater Miniaturized Robot Swarm
 
-Underwater robot collectives can benefit from moving
-in formation, for predictable spatial sampling, shared navigation, and potential energy savings. Using
-BlueSwarm, an underwater swarm platform with 3D maneuverability and 3D perception, I
-demonstrated how robots can navigate in various configurations (following behind or alongside, abovebelow,
-in a diamond shape) using visual but noisy interactions. This is the first experimental realization
-of an entirely vision-based 3D formation control, using a behavior-based leader-follower strategy 9. This
-work establishes a foundation for creating fish-like robot swarms capable of moving in energy-efficient
-formations, mimicking the behavior of natural fish schools.
-
+(Coming soon)
 <!-- ### Key Research Components:
 - Swarm coordination algorithms for underwater environments
 - Miniaturized underwater vehicles 

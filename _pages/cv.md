@@ -26,6 +26,17 @@ Work experience
   * Led the research on underwater collectives formation
   * Supervisor: Radhika Nagpal
 
+Selected Awards and Recognitions
+======
+* 2024 SEAS Innovation Grant “A Miniaturized Underwater Robotic Platform for Revealing Hydrodynamic
+Synergies in Fish Schooling” | Princeton University ($140,000)
+* 2024 Robotics: Science and Systems (RSS) Pioneers
+* 2024 SEAS Diversity and Inclusion Funding – Establishing Robotics Lab DEI Movie Nights |
+Princeton University ($2,000)
+* 2023 “Science Outside the Lab” Faculty program | National Nanotechnology Coordinated Infrastructure
+
+
+
 <!-- * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
