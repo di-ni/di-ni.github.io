@@ -9,10 +9,12 @@ redirect_from:
 
 ⚠️ This website is currently under constuction. More features coming soon! ⚠️
 
-Welcome! I am a Postdoctoral Researcher at Princeton University, where I work in[ SSR](https://ssr.princeton.edu/) lab with Prof. [Radhika Nagpal](https://www.radhikanagpal.org/). My research focuses on building small and multifunctional robotic platforms and utilizing them to investigate biomechanisms and explore collective intelligence. Currently, I am working on understanding the hydrodynamics and swarm formation within fish schools, achieved through the use of an underwater robotic platform called BlueSwarm.
+Hi! My name is Di Ni and I am a Postdoctoral Researcher at Princeton University, where I work in[ SSR](https://ssr.princeton.edu/) lab with Prof. [Radhika Nagpal](https://www.radhikanagpal.org/). My research focuses on building small robots use them to explore biomechanisms and collective intelligence. Currently, I am working on understanding the hydrodynamics and swarm formation within fish schools using [BlueSwarm](https://www.youtube.com/watch?v=qVsu49f-Vf0&list=PL5un2Fe_yAiYdaIzqtSwfymygPMVxKAmH).
 
 
 Before Princeton, I completed my Ph.D. in Electrical and Computer Engineering in 2022, advised by Prof. [Amit Lal](https://www.engineering.cornell.edu/faculty-directory/amit-lal) at Cornell University. My doctoral research focused on developing novel actuators and power supplies for the insect-sized robotic platform. Prior to that, I obtained a M.S. in Applied Physics from Cornell University and a B.S. in Physics from Beijing Normal University.
+
+
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
