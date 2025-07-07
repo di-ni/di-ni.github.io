@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-![Alt text](/images/Di_research_0.jpeg)
+![Alt text](/images/Di_research_0.jpg)
 
 Nature showcases small organisms with remarkable
 individual locomotion and collective behaviors
