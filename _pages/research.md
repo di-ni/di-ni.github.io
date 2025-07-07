@@ -19,6 +19,8 @@ swarms of small robots.
 
 My research draws inspiration from biological systems to overcome the challenges in miniaturize robotic swarms. I aim to develop cost-effective, small-scale robots for practical applications, such as exploring cluttered environments, monitoring ecosystems, and gathering high-resolution ocean observations.
 
+![Alt text](/images/Di_research_summary.png)
+
 # Research Areas
 
 ## Formation Control in Swarm using Implicit Cooridination
