@@ -10,11 +10,17 @@
 main:
 
 
+  - title: "Home"
+    url: /about/
+
   - title: "Bio"
     url: /cv/
 
   - title: "Research"
-    url: /portfolio/
+    url: /research/
+
+  # - title: "Research"
+  #   url: /portfolio/
 
   - title: "Publications"
     url: /publications/
