@@ -8,20 +8,9 @@ author_profile: true
 #   - /resume
 ---
 
-<style>
-.page__content {
-  margin: 0 40px;
-  padding: 20px 0;
-}
-
-@media (max-width: 768px) {
-  .page__content {
-    margin: 0 20px;
-  }
-}
-</style>
-
 {% include base_path %}
+
+<div style="margin: 0 40px; padding: 20px 0;">
 
 Bio
 ======
@@ -37,12 +26,6 @@ Di Ni is a postdoctoral researcher at Princeton University, working with Prof. R
 
 Education
 =====
-| Time   | Degree and Institution                                   |
-| :----- | :----------------------------------------------------- |
-| 2017-2022 | Ph.D in Electrical and Computer Engineering, Cornell University |
-| 2015-2017 | M.S. in Applied Physics, Cornell University                    |
-| 2011-2015 | B.S. in Physics, Beijing Normal University                       |
-
 
 * Ph.D in Electrical and Computer Engineering, Cornell University, 2022 
 * M.S. in Applied Physics, Cornell University, 2017
@@ -68,3 +51,5 @@ Teaching & Mentoring
 ======
 Mar 2020 - Aug 2020
 Graduate Student Mentor and Thesis Supervisor
+
+</div>
