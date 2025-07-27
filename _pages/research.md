@@ -8,7 +8,10 @@ author_profile: true
 
 {% include base_path %}
 
-![Alt text](/images/Di_research_0.jpg)
+<div style="margin: 0 100px; padding: 20px 0;">
+
+<!-- ![Alt text](/images/Di_research_0.jpg) -->
+![Alt text](/images/Di-research-0.svg)
 
 Nature showcases small organisms with remarkable
 individual locomotion and collective behaviors
@@ -19,6 +22,8 @@ patterns. Imagine replicating such feats with
 swarms of small robots.
 
 My research draws inspiration from biological systems to overcome the challenges in miniaturize robotic swarms. I aim to develop cost-effective, small-scale robots for practical applications, such as exploring cluttered environments, monitoring ecosystems, and gathering high-resolution ocean observations.
+
+</div>
 
 ![Alt text](/images/Di_research_summary.png)
 
