@@ -10,9 +10,9 @@ redirect_from:
 <style>
   .page {
     background-image: url('/images/fish-background.png');
-    background-size: cover;
+    background-size: auto;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
   }
   
   .page__content {
