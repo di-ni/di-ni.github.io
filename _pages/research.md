@@ -10,8 +10,8 @@ author_profile: true
 
 <div style="margin: 0 100px; padding: 20px 0;">
 
-<!-- ![Alt text](/images/Di_research_0.jpg) -->
-![Alt text](/images/Di-research-0.svg)
+<img src="/images/Di-research-0.jpg" width="700" height="400">
+
 
 Nature showcases small organisms with remarkable
 individual locomotion and collective behaviors
