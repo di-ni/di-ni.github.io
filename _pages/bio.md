@@ -10,21 +10,16 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- About me -->
-<!-- ====== -->
+Bio
+======
 
 Di Ni is a postdoctoral researcher at Princeton University, working with Prof. Radhika Nagpal in the Department of Mechanical and Aerospace Engineering. She received her PhD (2022) in Electrical and Computer Engineering from Cornell University, where she was advised by Prof. Amit Lal. Her research lies at the intersection of MEMS and robotics, with a particular focus on developing small-scale robots for collective swarm operations in complex environments. Prior to her Ph.D., she earned her Master’s and Bachelor’s degrees in Physics from Cornell University and Beijing Normal University, respectively. She has been recognized as an RSS pioneer for 2024 and is the recipient of the Princeton SEAS Innovation Grant. 
 
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
   <div style="float: left; margin-right: 20px;">
-    <img src="/images/Di_bio.jpg" alt="Di Ni" width="300">
-  </div>
-  <div>
+    <img src="/images/Di_bio2.jpg" alt="Di Ni">
   </div>
 </div>
-
-<br>
-<br>
 
 
 Education
