@@ -10,7 +10,7 @@ author_profile: true
 
 {% include base_path %}
 
-<div style="margin: 0 40px; padding: 20px 0;">
+<div style="margin: 0 100px; padding: 20px 0;">
 
 ## Bio
 
