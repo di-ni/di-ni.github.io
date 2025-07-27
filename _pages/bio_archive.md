@@ -1,8 +1,8 @@
 ---
 # layout: archive
 layout: page
-title: "Bio"
-permalink: /bio/
+title: "Bio_archived"
+permalink: /bio_archived/
 author_profile: true
 # redirect_from:
 #   - /resume
