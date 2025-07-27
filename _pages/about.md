@@ -7,12 +7,29 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .page {
+    background-image: url('/images/fish-background.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .page__content {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+  }
+</style>
+
 ⚠️ This website is currently under constuction. More features coming soon! ⚠️
 
 Welcome! 
 
 My name is Di Ni and I am a Postdoctoral Researcher at Princeton University.
-I am interesting in building small-scale robots, and using them to explore **biomechanisms** and **collective intelligence**. Currently, I am working on understanding the hydrodynamics and swarm formation within fish schools using [BlueSwarm](https://www.youtube.com/watch?v=qVsu49f-Vf0&list=PL5un2Fe_yAiYdaIzqtSwfymygPMVxKAmH).
+My research aims to develop **small-scale robots** that are simple, robust, and scalable, with the goal of deploying them in swarms to collaboratively address real-world applications.
+
+<!-- I am interesting in building small-scale robots, and using them to explore **biomechanisms** and **collective intelligence**. Currently, I am working on understanding the hydrodynamics and swarm formation within fish schools using [BlueSwarm](https://www.youtube.com/watch?v=qVsu49f-Vf0&list=PL5un2Fe_yAiYdaIzqtSwfymygPMVxKAmH). -->
 
 I am currently work in the awesome [SSR](https://ssr.princeton.edu/) lab with Prof. [Radhika Nagpal](https://www.radhikanagpal.org/). 
 Before Princeton, I completed my Ph.D. in Electrical and Computer Engineering in 2022, advised by Prof. [Amit Lal](https://www.engineering.cornell.edu/faculty-directory/amit-lal) at Cornell University. My doctoral research focused on developing novel actuators and power supplies for the insect-sized robotic platform. Prior to that, I obtained a M.S. in Applied Physics from Cornell University and a B.S. in Physics from Beijing Normal University.
