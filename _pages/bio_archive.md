@@ -8,14 +8,6 @@ author_profile: true
 #   - /resume
 ---
 
-A variety of common markup showing how the theme styles them.
-
-# Header one
-
-## Header two
-
-### Header three
-
 {% include base_path %}
 
 <div style="margin: 0 100px; padding: 20px 0;">
