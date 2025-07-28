@@ -9,4 +9,4 @@ author_profile: true
 
 <!-- ## CV -->
 
-You can view my CV here: [CV](https://drive.google.com/file/d/1XjY4gnlLzsKEYtQmctGHj9n1-On-Txl5/view?usp=sharing)
+You can view my CV here: [CV](https://drive.google.com/file/d/1dDEJLMybpB17KFWRsOk6mhkTPZOleokU/view?usp=sharing)
