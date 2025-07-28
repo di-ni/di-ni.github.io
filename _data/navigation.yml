@@ -37,8 +37,8 @@ main:
     
 
     
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "CV"
+    url: /cv-json/drive
     
   # - title: "Guide"
   #   url: /markdown/
