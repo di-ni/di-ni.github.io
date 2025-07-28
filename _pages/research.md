@@ -52,8 +52,8 @@ My research draws inspiration from biological systems and aims to develop artifi
 
 ## Fish-inspired Miniaturized Robotic Platform
 
-Improvements in robot maneuverability—via better control algorithms and hardware design—will further enable agile, fish-inspired actuation.
-(Coming soon)
+(Coming soon) Improvements in robot maneuverability—via better control algorithms and hardware design—will further enable agile, fish-inspired actuation.
+
 
 <!-- ### Key Research Components:
 - Swarm coordination algorithms for underwater environments
@@ -64,7 +64,7 @@ Improvements in robot maneuverability—via better control algorithms and hardwa
 
 ## Actuation and Power in mm-cm Scale
 
-Despite significant progress in small-sized robotic
+(Coming soon) Despite significant progress in small-sized robotic
 systems over the past two decades, most platforms
 lack sufficient payload capacity for onboard power
 due to size constraints. Developing strong actuators
