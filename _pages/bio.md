@@ -52,9 +52,9 @@ Di Ni is a postdoctoral researcher at Princeton University, working with Prof. R
 * 2024 SEAS Innovation Grant “A Miniaturized Underwater Robotic Platform for Revealing Hydrodynamic
 Synergies in Fish Schooling” | Princeton University ($140,000)
 * 2024 Robotics: Science and Systems (RSS) Pioneers
-* 2024 SEAS Diversity and Inclusion Funding – Establishing Robotics Lab DEI Movie Nights |
-Princeton University ($2,000)
-* 2023 “Science Outside the Lab” Faculty program | National Nanotechnology Coordinated Infrastructure
+* 2024 SEAS Diversity and Inclusion Funding – Establishing Robotics Lab DEI Movie Nights | Princeton University ($2,000)
+* 2023 "Science Outside the Lab" Faculty Program | National Nanotechnology Coordianted Infrastructure
+
 
 
 ## Teaching & Mentoring
