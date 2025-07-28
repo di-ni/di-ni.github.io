@@ -35,6 +35,9 @@ My research draws inspiration from biological systems and aims to develop artifi
         <p>
         We introduce a leader-follower strategy that enables the first realizations of complex three-dimensional (3D) underwater formations using visual information alone. We successfully demonstrate leader-follower pairs executing various 3D following configurations (inline, staggered, and side-by-side formations) and further showcase a multi-robot diamond formation. Comparisons between experimental results and simulation predictions highlight formation-specific challenges for underwater environments, particularly in visual perception, fluid dynamic control, and resource-constrained onboard computing. These findings lay the foundation for future applications of underwater robot swarms in aquatic environments with minimal communication.
         </p>
+        <p>
+        Future work will focus on advancing underwater perception through natural-light vision systems and data-driven approaches to handle challenging optical conditions and complex enviornments. These developments will support more scalable and sophisticated swarm behaviors, bringing us closer to using robot collectives to study and interact with natural biological systems.
+        </p>
     </div>
     <div style="flex: 1; text-align: center;">
         <img src="/images/Di-research-1.jpg" alt="Research Image" style="width: 100%; max-width: 400px;">
@@ -47,11 +50,9 @@ My research draws inspiration from biological systems and aims to develop artifi
 </div>
 
 
+## Fish-inspired Miniaturized Robotic Platform
 
-
-
-## Underwater Miniaturized Robot Swarm
-
+Improvements in robot maneuverability—via better control algorithms and hardware design—will further enable agile, fish-inspired actuation.
 (Coming soon)
 
 <!-- ### Key Research Components:
@@ -61,7 +62,7 @@ My research draws inspiration from biological systems and aims to develop artifi
 
 
 
-## Small Robotics Platform
+## Actuation and Power in mm-cm Scale
 
 Despite significant progress in small-sized robotic
 systems over the past two decades, most platforms
