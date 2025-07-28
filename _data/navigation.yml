@@ -15,7 +15,6 @@ main:
 
   - title: "Bio"
     url: /bio/
-    # url: /cv/
 
   - title: "Research"
     url: /research/
@@ -38,7 +37,7 @@ main:
 
     
   - title: "CV"
-    url: /cv-json/drive
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/

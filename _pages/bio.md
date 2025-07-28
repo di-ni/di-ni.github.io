@@ -60,6 +60,9 @@ National Nanotechnology Coordianted Infrastructure
 
 
 ## Teaching & Mentoring
-Mar 2020 - Aug 2020
-Graduate Student Mentor and Thesis Supervisor
+* 2024 Undergrad Student Independent Work Co-Supervisor
+
+* 2023 Undergrad Student Co-Supervisor and Thesis Supervisor
+
+* 2022 Teaching Assistant
 

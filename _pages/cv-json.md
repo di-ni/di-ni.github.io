@@ -7,7 +7,7 @@ redirect_from:
   - /resume-json
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/cv-style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
@@ -32,7 +32,7 @@ redirect_from:
 <div class="cv-download-links">
   <a href="https://drive.google.com/file/d/1XjY4gnlLzsKEYtQmctGHj9n1-On-Txl5/view?usp=sharing" class="btn btn--primary" target="_blank">Download CV as PDF</a>
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
-</div>
+</div> -->
 
 
 
