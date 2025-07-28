@@ -7,6 +7,6 @@ author_profile: true
 #   - /resume
 ---
 
-<!-- ## CV -->
+## CV
 
 You can view my CV here: [CV](https://drive.google.com/file/d/1dDEJLMybpB17KFWRsOk6mhkTPZOleokU/view?usp=sharing)
