@@ -34,7 +34,7 @@ My research aims to develop **small-scale robots** that are simple, robust, and 
 I currently work in the awesome [SSR](https://ssr.princeton.edu/) lab with Prof. [Radhika Nagpal](https://www.radhikanagpal.org/). My research focuses on understanding the hydrodynamics and swarm formation within fish schools using a bioinspired robotic platform called [BlueSwarm](https://www.youtube.com/watch?v=qVsu49f-Vf0&list=PL5un2Fe_yAiYdaIzqtSwfymygPMVxKAmH).
 Before Princeton, I completed my Ph.D. in Electrical and Computer Engineering at Cornell University, advised by Prof. [Amit Lal](https://www.engineering.cornell.edu/faculty-directory/amit-lal). My doctoral research focused on developing novel actuators and power supplies for the insect-sized robotic platform. Prior to that, I obtained a M.S. in Applied Physics from Cornell University and a B.S. in Physics from Beijing Normal University.
 
-
+<!-- I’m always excited to chat about research, explore opportunities to collaborate, and learn about new ideas. Feel free to reach out to me by email! Outside of research, I enjoy trying new activities in my free time—lately, I’ve been into tennis, going to the beach, and watching old TV shows like Seinfeld. -->
 
 
 
