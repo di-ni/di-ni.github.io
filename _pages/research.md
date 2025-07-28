@@ -10,19 +10,19 @@ author_profile: true
 
 ![Alt text](/images/Di-research-0.jpg)
 
-Nature showcases small organisms with remarkable
-individual locomotion and collective behaviors
-– from hummingbirds demonstrating great
-agility and precise hovering, to schools of fish
-navigating thousands of miles in adaptive group
-patterns. Imagine replicating such feats with
-swarms of small robots.
+Nature showcases small organisms with remarkable individual locomotion capabilities and collective behaviors — from hummingbirds displaying exceptional agility and precise hovering, to schools of fish navigating thousands of miles in coordinated, adaptive group patterns.
+These collectives demonstrate an incredible level of **self-organization**, where large numbers of relatively simple agents rely on local interactions to produce complex global behaviors. As a result, the system as a whole becomes greater than the sum of its parts. What makes these systems so fascinating to scientists and engineers is that, despite each individual having limited capabilities, the collective achieves a remarkable degree of autonomy.
 
-My research draws inspiration from biological systems to overcome the challenges in miniaturize robotic swarms. I aim to develop cost-effective, small-scale robots for practical applications, such as exploring cluttered environments, monitoring ecosystems, and gathering high-resolution ocean observations.
+My research draws inspiration from biological systems and aims to develop artificial collectives of our own. I focus on creating cost-effective, small-scale robots that can form robotic fleets mimicking biological collectives in several highly desirable ways:
+(1) exhibiting complex and coherent behavior across large physical scales despite each individual's severely limited perception;
+(2) achieving decentralized coordination with high robustness to individual failures;
+(3) leveraging collective action and sensing to enhance efficiency and adaptability.
 
 
 
-![Alt text](/images/Di_research_summary.png)
+
+
+<!-- ![Alt text](/images/Di_research_summary.png) -->
 
 # Research Areas
 

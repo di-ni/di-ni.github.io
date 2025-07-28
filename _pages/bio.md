@@ -34,10 +34,10 @@ Di Ni is a postdoctoral researcher at Princeton University, working with Prof. R
 <!-- 
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ | -->
-| [PhD](#)    | 2022   | Electrical and Computer Engineering, Cornell University                         |
+<!-- | [PhD](#)    | 2022   | Electrical and Computer Engineering, Cornell University                         |
 | [M.S.](#)    | 2017   | Applied Physics, Cornell University                          |
 | [B.S](#)     | 2015   | Beijing Normal University                         |
-
+ -->
 
 * Ph.D in Electrical and Computer Engineering, Cornell University, 2022 
 * M.S. in Applied Physics, Cornell University, 2017
