@@ -60,7 +60,7 @@ maintaining static configurations.
                     <source src="/images/diamond_x8.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
-        <img src="/images/Di-research-1.jpg" alt="Research Image" style="width: 100%; max-width: 400px;">
+        <img src="/images/Di-research-1.jpg" alt="Research Image" style="width: 100%; max-width: 500px;">
         <br>
         <!-- <video width="100%" controls>
             <source src="/videos/Di-research-video.mp4" type="video/mp4">
@@ -72,13 +72,37 @@ maintaining static configurations.
 
 ## Perception and Control Strategies for Small-Scale, Resource-Constrained Robots
 
-(Coming soon) Improvements in robot maneuverability—via better control algorithms and hardware design—will further enable agile, fish-inspired actuation.
+<!-- ![Alt text](/images/Di_research_summary.png) -->
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+    <div style="flex: 2;">
+        <p>
+        In idealized models and control laws, robots are often assumed to have extensive knowledge of the environment, precise awareness of their own states, and abundant computational resources. These assumptions rarely hold for small robots with limited resources. However, enabling such robots to make local decisions without relying on global information or centralized computation is critical, particularly for swarm deployment in complex or unstructured environments.
+        </p>
+        <p>        
+        We have developed several fish-inspired platforms to explore embodied intelligence and fully autonomous decision-making. In the underwater domain, robots face severe constraints: sensing is often noisy and can be subject to occlusion, actuation is hindered by fluid, and communication is hard due to the absence of RF signals, making the underwater environment a natural testbed for decentralized strategies. A central effort of my work was
+\underline{Bluebots}, a fish-inspired underwater robot with \underline{3D motion maneuverability and 3D visual perception}. 
+Using fast onboard image processing, a Bluebot can perform real-time 3D pose and heading estimation entirely from cameras and LEDs, creating a minimalist yet versatile visual system. It uses a reactive controller and achieves rates up to 5 Hz on a Raspberry Pi Zero. Through purely visual observation of the environment and neighboring robots, we showed that the Bluebot can make decisions fully onboard without relying on global positioning or centralized control.
+        </p>
+        <p>
+        Future research will build on this groundwork to bring robots closer to real-world deployment.
+With the rapid progress of AI, powerful models have been developed for tasks such as object detection and depth estimation. However, underwater perception remains very challenging due to low visibility, dynamic lighting, and limited data availability. By tailoring AI models to these conditions and leveraging advances in compact computing hardware, robots can transition from laboratory testing to field operation. My ongoing work uses DepthAnything to enable robots to perform depth estimation with monocular cameras. Building on this foundation, I will continue to develop lightweight models for robust and decentralized perception and control on small, resource-constrained robots.
+This effort involves both algorithmic-level optimization, such as model compression and domain-specific training for underwater vision, as well as system-level integration with limited onboard computation, sensing, and control. 
+        </p>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <video width="100%" autoplay loop muted playsinline>
+                    <source src="images/Di-research video dualcamera mangrove low res.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+        <img src="/images/Di-research-2.jpg" alt="Research Image" style="width: 100%; max-width: 500px;">
+        <br>
+        <!-- <video width="100%" controls>
+            <source src="/videos/Di-research-video.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video> -->
+    </div>
+</div>
 
-
-<!-- ### Key Research Components:
-- Swarm coordination algorithms for underwater environments
-- Miniaturized underwater vehicles 
-- Bio-inspired design principles -->
 
 
 
