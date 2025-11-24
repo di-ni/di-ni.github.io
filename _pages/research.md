@@ -56,6 +56,10 @@ maintaining static configurations.
         </p>
     </div>
     <div style="flex: 1; text-align: center;">
+        <video width="100%" autoplay loop muted playsinline>
+                    <source src="/images/diamond_x8.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
         <img src="/images/Di-research-1.jpg" alt="Research Image" style="width: 100%; max-width: 400px;">
         <br>
         <!-- <video width="100%" controls>
