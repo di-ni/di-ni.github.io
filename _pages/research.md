@@ -12,13 +12,18 @@ author_profile: true
 
 <div style="margin: 100px;">
 
+<p>
 Nature showcases small organisms with remarkable individual locomotion capabilities and collective behaviors — from hummingbirds displaying exceptional agility and precise hovering, to schools of fish navigating thousands of miles in coordinated, adaptive group patterns.
 These collectives demonstrate an incredible level of **self-organization**, where large numbers of relatively simple agents rely on local interactions to produce complex global behaviors. As a result, the system as a whole becomes greater than the sum of its parts. What makes these systems so fascinating to scientists and engineers is that, despite each individual having limited capabilities, the collective achieves a remarkable degree of autonomy and complexity.
+</p>
 
+<p>
 My research draws inspiration from biological systems and aims to develop artificial collectives of our own. I focus on creating cost-effective, small-scale robots that can form robotic fleets mimicking biological collectives in several highly desirable ways:
-(1) exhibiting complex and coherent behavior across large physical scales despite each individual's severely limited perception;
-(2) achieving decentralized coordination with high robustness to individual failures;
-(3) leveraging collective action and sensing to enhance efficiency and adaptability.
+*   exhibiting complex and coherent behavior across large physical scales despite each individual being simple and has severely limited perception (scalable);
+*   achieving decentralized coordination with high robustness to individual failures (robust);
+*   leveraging collaborative action and sensing to cope with a broad spectrum of different enviorment and tasks (flexible).
+
+</p>
 
 </div>
 
@@ -28,7 +33,7 @@ My research draws inspiration from biological systems and aims to develop artifi
 ## Formation Control in Underwater Swarm 
 <!-- ![Alt text](/images/Di_research_summary.png) -->
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
-    <div style="flex: 1;">
+    <div style="flex: 2;">
         <p>
         The schooling behavior of fish is hypothesized to confer many survival benefits, including foraging success, safety from predators, and energy savings through hydrodynamic interactions when swimming in formation. Underwater robot collectives may achieve similar benefits using formation control in future applications, e.g. efficient spatial sampling for environmental monitoring. Although many theoretical algorithms exist for multi-robot formation control, few have been tested in the underwater domain due to fundamental challenges in underwater communication. 
         </p>

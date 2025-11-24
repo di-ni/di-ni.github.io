@@ -16,7 +16,7 @@ author_profile: true
 
 
 
-<div style="margin: 0 100px; padding: 20px 0;">
+<div style="margin: 0 100px; padding: 100px 0;">
 
 <!-- # Bio -->
 
