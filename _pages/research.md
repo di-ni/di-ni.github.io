@@ -32,14 +32,10 @@ My research is organized around the following three aims to advance this vision.
 
 # Research Areas
 
-## Coordination Principles for Swarms
+## Decentralized Coordination Principles for Swarms
 <!-- ![Alt text](/images/Di_research_summary.png) -->
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
     <div style="flex: 2;">
-        <!-- <p>
-        Self-organizing collectives in the natural world have long inspired swarm robotics, where large numbers of relatively simple agents use local interactions to produce impressive global behaviors. For small robots, while each individual may be limited in payload, sensing, and computational capacity, collectively they have the potential to achieve great complexity. Discovering the coordination principles can enable swarms to achieve tasks that are impossible for a single robot, such as robust exploration, distributed sensing, and energy-efficient navigation.
-        <!-- The schooling behavior of fish is hypothesized to confer many survival benefits, including foraging success, safety from predators, and energy savings through hydrodynamic interactions when swimming in formation. Underwater robot collectives may achieve similar benefits using formation control in future applications, e.g. efficient spatial sampling for environmental monitoring. Although many theoretical algorithms exist for multi-robot formation control, few have been tested in the underwater domain due to fundamental challenges in underwater communication.  -->
-        </p> -->
         <p>
         Fish schools is one of the well-known examples of collective behavior: thousands of fish migrate together, form dyanmics formation to navigate across cluttered environment, and form dynamic shapes like bait balls to evade predators. Underwater robot collectives may achieve similar benefits using formation control in future applications, e.g. efficient spatial sampling for environmental monitoring. 
         </p>
@@ -60,7 +56,7 @@ maintaining static configurations.
                     <source src="/images/diamond_x8.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
-        <img src="/images/Di-research-1.jpg" alt="Research Image" style="width: 100%; max-width: 500px;">
+        <img src="/images/Di-research-1.png" alt="Research Image" style="width: 100%; max-width: 500px;">
         <br>
         <!-- <video width="100%" controls>
             <source src="/videos/Di-research-video.mp4" type="video/mp4">
@@ -84,11 +80,12 @@ real-world deployment.
         </p>
     </div>
     <div style="flex: 1; text-align: center;">
+        <img src="/images/Di-research-2.1.jpg" alt="Research Image" style="width: 100%; max-width: 500px;">
         <video width="100%" autoplay loop muted playsinline>
                     <source src="/images/Di-research video dualcamera mangrove low res.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
-        <img src="/images/Di-research-2.jpg" alt="Research Image" style="width: 100%; max-width: 500px;">
+        <img src="/images/Di-research-2.2.png.jpg" alt="Research Image" style="width: 100%; max-width: 500px;">
         <br>
         <!-- <video width="100%" controls>
             <source src="/videos/Di-research-video.mp4" type="video/mp4">
@@ -104,7 +101,7 @@ real-world deployment.
 
 Currently, most small-scale robots still lack the payload capacity and on-board resources for full autonomy. Developing strong actuators and compact power supplies is therefore essential for enabling truly autonomous small robots.
 
-To enable a small robot with large payload, I developed a miniaturized electrostatic actuator with a high energy density. Inspired by skeletal muscles, the 3D polymer interdigitated pillar electrostatic actuator (PIPE) mimics the honeycomb structure of muscle fibers. By arranging two chips with interleaving pillar arrays, PIPE actuators increase the overlapping surface area in 3D, thus amplifying the output density of force and energy. My analytical model predicts that further miniaturization (reducing pillar gaps to 10 µm or smaller) will yield force densities 5–10× higher than biological muscle. To address the high voltages required by small-scale electric field actuators, I also developed a mm-scale kilovolt generator using pyroelectricity ($LiNbO_3$) that demonstrate a 1–3 kV generation in a volume of 0.25 cm³ . The device can be solar powered and operated in a distributed architecture for local kV powering of multi-actuator systems. Such designs allow robots to harvest widely available thermal energy, reducing reliance on tethered power or frequent recharging. Future research will build on these foundations to develop hardware specifically optimized for small robots.
+To enable a small robot with large payload, I developed a miniaturized electrostatic actuator with a high energy density. Inspired by skeletal muscles, the 3D polymer interdigitated pillar electrostatic actuator (PIPE) mimics the honeycomb structure of muscle fibers. By arranging two chips with interleaving pillar arrays, PIPE actuators increase the overlapping surface area in 3D, thus amplifying the output density of force and energy. My analytical model predicts that further miniaturization (reducing pillar gaps to 10 µm or smaller) will yield force densities 5–10× higher than biological muscle. To address the high voltages required by small-scale electric field actuators, I also developed a mm-scale kilovolt generator using pyroelectricity (LiNbO3) that demonstrate a 1–3 kV generation in a volume of 0.25 cm³ . The device can be solar powered and operated in a distributed architecture for local kV powering of multi-actuator systems. Such designs allow robots to harvest widely available thermal energy, reducing reliance on tethered power or frequent recharging. Future research will build on these foundations to develop hardware specifically optimized for small robots.
 
 
 

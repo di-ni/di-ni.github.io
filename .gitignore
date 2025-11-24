@@ -18,3 +18,7 @@ vendor/
 
 # Ignore folders related to IDEs
 .vscode/
+
+#Igonre large files
+images/picture_prepare.pptx
+images/~$picture_prepare.pptx
