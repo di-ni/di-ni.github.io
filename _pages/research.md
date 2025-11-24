@@ -85,7 +85,7 @@ real-world deployment.
                     <source src="/images/Di-research video dualcamera mangrove low res.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
-        <img src="/images/Di-research-2.2.png.png" alt="Research Image" style="width: 100%; max-width: 500px;">
+        <img src="/images/Di-research-2.2.png" alt="Research Image" style="width: 100%; max-width: 500px;">
         <br>
         <!-- <video width="100%" controls>
             <source src="/videos/Di-research-video.mp4" type="video/mp4">
