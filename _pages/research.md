@@ -21,13 +21,14 @@ These collectives demonstrate an incredible level of  <strong>self-organization<
 
 <p>
 My research draws inspiration from biological systems and aims to develop artificial collectives of our own. I focus on creating cost-effective, small-scale robots that can form robotic fleets mimicking biological collectives in several highly desirable ways:
-</p>
-<ul>
-    <li>exhibiting complex and coherent behavior across large physical scales despite each individual being simple and has severely limited perception (scalable);</li>
-    <li>achieving decentralized coordination with high robustness to individual failures (robust);</li>
-    <li>leveraging collaborative action and sensing to cope with a broad spectrum of different enviorment and tasks (flexible).</li>
-</ul>
 
+<ul>
+    <li>Exhibiting complex behavior across large scales despite each individual being simple and has severely limited perception (scalable);</li>
+    <li>Achieving decentralized coordination with high robustness to individual failures (robust);</li>
+    <li>Leveraging collaborative action and sensing to cope with a broad spectrum of different enviorment and tasks (flexible).</li>
+</ul>
+My research is organized around the following three aims to advance this vision.
+</p>
 
 # Research Areas
 
