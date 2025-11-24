@@ -10,6 +10,7 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
+  position: relative;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -115,9 +116,11 @@
   animation-delay: 0.25s;
 
   &--overlay {
-    position: relative;
-    margin-left: calc(-100vw / 2 + 100% / 2);
-    margin-right: calc(-100vw / 2 + 100% / 2);
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100vw;
     margin-bottom: 2em;
     padding: 3em 0;
     @include clearfix;
@@ -126,7 +129,7 @@
     background-position: center;
     animation: intro 0.3s both;
     animation-delay: 0.25s;
-    width: 100vw;
+    z-index: 0;
 
     a {
       color: #fff;
