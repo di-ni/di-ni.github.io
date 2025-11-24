@@ -14,16 +14,21 @@ author_profile: true
 
 <p>
 Nature showcases small organisms with remarkable individual locomotion capabilities and collective behaviors — from hummingbirds displaying exceptional agility and precise hovering, to schools of fish navigating thousands of miles in coordinated, adaptive group patterns.
-These collectives demonstrate an incredible level of **self-organization**, where large numbers of relatively simple agents rely on local interactions to produce complex global behaviors. As a result, the system as a whole becomes greater than the sum of its parts. What makes these systems so fascinating to scientists and engineers is that, despite each individual having limited capabilities, the collective achieves a remarkable degree of autonomy and complexity.
 </p>
 
 <p>
-My research draws inspiration from biological systems and aims to develop artificial collectives of our own. I focus on creating cost-effective, small-scale robots that can form robotic fleets mimicking biological collectives in several highly desirable ways:
-*   exhibiting complex and coherent behavior across large physical scales despite each individual being simple and has severely limited perception (scalable);
-*   achieving decentralized coordination with high robustness to individual failures (robust);
-*   leveraging collaborative action and sensing to cope with a broad spectrum of different enviorment and tasks (flexible).
-
+These collectives demonstrate an incredible level of  <strong>self-organization</strong>, where large numbers of relatively simple agents rely on local interactions to produce complex global behaviors. As a result, the system as a whole becomes greater than the sum of its parts. What makes these systems so fascinating to scientists and engineers is that, despite each individual having limited capabilities, the collective achieves a remarkable degree of autonomy and complexity.
 </p>
+
+
+<p>
+My research draws inspiration from biological systems and aims to develop artificial collectives of our own. I focus on creating cost-effective, small-scale robots that can form robotic fleets mimicking biological collectives in several highly desirable ways:
+</p>
+<ul>
+    <li>exhibiting complex and coherent behavior across large physical scales despite each individual being simple and has severely limited perception (scalable);</li>
+    <li>achieving decentralized coordination with high robustness to individual failures (robust);</li>
+    <li>leveraging collaborative action and sensing to cope with a broad spectrum of different enviorment and tasks (flexible).</li>
+</ul>
 
 </div>
 
