@@ -56,7 +56,7 @@ maintaining static configurations.
                     <source src="/images/diamond_x8.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
-        <img src="/images/Di-research-1.png" alt="Research Image" style="width: 100%; max-width: 500px;">
+        <img src="/images/Di-research-1.jpg" alt="Research Image" style="width: 100%; max-width: 500px;">
         <br>
         <!-- <video width="100%" controls>
             <source src="/videos/Di-research-video.mp4" type="video/mp4">
@@ -80,12 +80,12 @@ real-world deployment.
         </p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="/images/Di-research-2.1.jpg" alt="Research Image" style="width: 100%; max-width: 500px;">
+        <img src="/images/Di-research-2.1.png" alt="Research Image" style="width: 100%; max-width: 500px;">
         <video width="100%" autoplay loop muted playsinline>
                     <source src="/images/Di-research video dualcamera mangrove low res.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
-        <img src="/images/Di-research-2.2.png.jpg" alt="Research Image" style="width: 100%; max-width: 500px;">
+        <img src="/images/Di-research-2.2.png.png" alt="Research Image" style="width: 100%; max-width: 500px;">
         <br>
         <!-- <video width="100%" controls>
             <source src="/videos/Di-research-video.mp4" type="video/mp4">
