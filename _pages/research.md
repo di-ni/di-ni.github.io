@@ -20,7 +20,7 @@ These collectives demonstrate an incredible level of  <strong>self-organization<
 
 
 <p>
-My research draws inspiration from biological systems and aims to develop artificial collectives of our own. I focus on creating cost-effective, small-scale robots that can form robotic fleets mimicking biological collectives in several highly desirable ways:
+My research draws inspiration from biological systems and aims to develop <strong>artificial collectives</strong> of our own. I focus on creating cost-effective, small-scale robots that can form robotic fleets mimicking biological collectives in several highly desirable ways:
 
 <ul>
     <li>Exhibiting complex behavior across large scales despite each individual being simple and has severely limited perception (scalable);</li>
@@ -32,15 +32,24 @@ My research is organized around the following three aims to advance this vision.
 
 # Research Areas
 
-## Formation Control in Underwater Swarm 
+## Coordination Principles for Swarms
 <!-- ![Alt text](/images/Di_research_summary.png) -->
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
     <div style="flex: 2;">
         <p>
-        The schooling behavior of fish is hypothesized to confer many survival benefits, including foraging success, safety from predators, and energy savings through hydrodynamic interactions when swimming in formation. Underwater robot collectives may achieve similar benefits using formation control in future applications, e.g. efficient spatial sampling for environmental monitoring. Although many theoretical algorithms exist for multi-robot formation control, few have been tested in the underwater domain due to fundamental challenges in underwater communication. 
+        Self-organizing collectives in the natural world have long inspired swarm robotics, where large numbers of relatively simple agents use local interactions to produce impressive global behaviors. For small robots, while each individual may be limited in payload, sensing, and computational capacity, collectively they have the potential to achieve great complexity. Discovering the coordination principles can enable swarms to achieve tasks that are impossible for a single robot, such as robust exploration, distributed sensing, and energy-efficient navigation.
+        <!-- The schooling behavior of fish is hypothesized to confer many survival benefits, including foraging success, safety from predators, and energy savings through hydrodynamic interactions when swimming in formation. Underwater robot collectives may achieve similar benefits using formation control in future applications, e.g. efficient spatial sampling for environmental monitoring. Although many theoretical algorithms exist for multi-robot formation control, few have been tested in the underwater domain due to fundamental challenges in underwater communication.  -->
         </p>
         <p>
-        We introduce a leader-follower strategy that enables the first realizations of complex three-dimensional (3D) underwater formations using visual information alone. We successfully demonstrate leader-follower pairs executing various 3D following configurations (inline, staggered, and side-by-side formations) and further showcase a multi-robot diamond formation. Comparisons between experimental results and simulation predictions highlight formation-specific challenges for underwater environments, particularly in visual perception, fluid dynamic control, and resource-constrained onboard computing. These findings lay the foundation for future applications of underwater robot swarms in aquatic environments with minimal communication.
+        Fish schools is one of the well-known examples of collective behavior: thousands of fish migrate together, form dyanmics formation to navigate across cluttered environment, and form dynamic shapes like bait balls to evade predators. Underwater robot collectives may achieve similar benefits using formation control in future applications, e.g. efficient spatial sampling for environmental monitoring. 
+        </p>
+        <p>        
+Using <strong>BlueSwarm</strong>, an underwater swarm platform consisting of 10 Bluebots, we have demonstrated that <strong>{multiple robots navigate in a variety of formations</strong>, including following behind or alongside each other, moving above and below, and maintaining diamond-shaped configurations, all based on noisy local visual interactions. This work represents the first experimental realization of entirely vision-based 3D formation control in miniature underwater robots, employing a behavior-based leader-follower strategy. The successful implementation with physical robots not only creates new opportunities for studying fish schooling using
+robotic platforms but also advances the development of
+implicit coordination algorithms for dynamic formation
+control, where agents must continuously adapt to changing
+positions and motions, a significantly greater challenge than
+maintaining static configurations.
         </p>
         <p>
         Future work will focus on advancing underwater perception through natural-light vision systems and data-driven approaches to handle challenging optical conditions and complex enviornments. These developments will support more scalable and sophisticated swarm behaviors, bringing us closer to using robot collectives to study and interact with natural biological systems.
@@ -57,7 +66,7 @@ My research is organized around the following three aims to advance this vision.
 </div>
 
 
-## Fish-inspired Miniaturized Robotic Platform
+## Perception and Control Strategies for Small-Scale, Resource-Constrained Robots
 
 (Coming soon) Improvements in robot maneuverability—via better control algorithms and hardware design—will further enable agile, fish-inspired actuation.
 
