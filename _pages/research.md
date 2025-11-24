@@ -10,13 +10,11 @@ author_profile: true
 
 ![Alt text](/images/Di-research-0.jpg)
 
-<div style="margin: 100px;">
+<div style="margin: 100px;" markdown="1">
 
 <p>
 Nature showcases small organisms with remarkable individual locomotion capabilities and collective behaviors — from hummingbirds displaying exceptional agility and precise hovering, to schools of fish navigating thousands of miles in coordinated, adaptive group patterns.
-</p>
 
-<p>
 These collectives demonstrate an incredible level of  <strong>self-organization</strong>, where large numbers of relatively simple agents rely on local interactions to produce complex global behaviors. As a result, the system as a whole becomes greater than the sum of its parts. What makes these systems so fascinating to scientists and engineers is that, despite each individual having limited capabilities, the collective achieves a remarkable degree of autonomy and complexity.
 </p>
 
@@ -29,8 +27,6 @@ My research draws inspiration from biological systems and aims to develop artifi
     <li>achieving decentralized coordination with high robustness to individual failures (robust);</li>
     <li>leveraging collaborative action and sensing to cope with a broad spectrum of different enviorment and tasks (flexible).</li>
 </ul>
-
-</div>
 
 
 # Research Areas
@@ -97,6 +93,8 @@ new capabilities. -->
 - Smart material applications
 - Micro-scale power systems
 - Compact sensing solutions -->
+
+</div>
 
 ---
 <!-- 
