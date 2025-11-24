@@ -111,5 +111,3 @@ To enable a small robot with large payload, I developed a miniaturized electrost
 </div>
 
 ---
-<!-- 
-*Research collaborations and funding opportunities are welcome. Please contact for more information.* -->
