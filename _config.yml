@@ -26,10 +26,10 @@ author:
   name             : "Di Ni"
   pronouns         : # example: "she/her"  
   # bio              : "Postdoc at Princeton University, working on small robots and swarm swarm."
-  location         : "Princeton, NJ, USA"
+  # location         : "Princeton, NJ, USA"
   # employer         : "Red Brick University"
   uri              : # URL
-  email            : "dn8856@princeton.edu" 
+  # email            : "dn8856@princeton.edu" 
 
   # Academic websites
   academia         : # URL
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/di-ni-7b8401142/
+  # linkedin         : https://www.linkedin.com/in/di-ni-7b8401142/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

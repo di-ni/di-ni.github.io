@@ -107,6 +107,20 @@
   }
 }
 
+/* Add transparent background when page has header overlay */
+.page__hero--overlay ~ .sidebar,
+.page__hero--overlay ~ .page {
+  .page__content,
+  .sidebar,
+  .author__avatar,
+  .author__content,
+  .author__urls-wrapper {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
