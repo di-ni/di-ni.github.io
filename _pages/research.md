@@ -25,7 +25,7 @@ My research draws inspiration from biological systems and aims to develop <stron
 <ul>
     <li>Exhibiting complex behavior across large scales despite each individual being simple and has severely limited perception (scalable);</li>
     <li>Achieving decentralized coordination with high robustness to individual failures (robust);</li>
-    <li>Leveraging collaborative action and sensing to cope with a broad spectrum of different enviorment and tasks (flexible).</li>
+    <li>Leveraging collaborative action and sensing to cope with a broad spectrum of different enviorment and tasks (adaptive).</li>
 </ul>
 My research is organized around the following three aims to advance this vision.
 </p>
