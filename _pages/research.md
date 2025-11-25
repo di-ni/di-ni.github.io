@@ -37,7 +37,9 @@ My research is organized around the following three aims to advance this vision.
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
     <div style="flex: 2;">
         <p>
-        Fish schools is one of the well-known examples of collective behavior: thousands of fish migrate together, form dyanmics formation to navigate across cluttered environment, and form dynamic shapes like bait balls to evade predators. Underwater robot collectives may achieve similar benefits using formation control in future applications, e.g. efficient spatial sampling for environmental monitoring. 
+        Fish school is one of the well-known examples of collective behavior: thousands of fish migrate together, form dynamic formations to navigate across cluttered environments, and assemble into structures like bait balls to evade predators. Underwater robot
+collectives may achieve similar benefits using formation control in future applications, e.g. efficient spatial sampling for
+environmental monitoring. 
         </p>
         <p>        
 Using <strong>BlueSwarm</strong>, an underwater swarm platform consisting of 10 Bluebots, we have demonstrated multiple robots navigate in a variety of formations, including following behind or alongside each other, moving above and below, and maintaining diamond-shaped configurations, all based on noisy local visual interactions. This work represents the first experimental realization of entirely vision-based 3D formation control in miniature underwater robots, employing a behavior-based leader-follower strategy. The successful implementation with physical robots not only creates new opportunities for studying fish schooling using
