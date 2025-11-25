@@ -23,7 +23,7 @@ redirect_from:
   }
 </style>
 
-⚠️ This website is currently under constuction. More features coming soon! ⚠️
+<!-- ⚠️ This website is currently under constuction. More features coming soon! ⚠️ -->
 
 Welcome! 
 
