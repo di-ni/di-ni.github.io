@@ -1,25 +1,152 @@
 {% include base_path %}
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    {% if site.atom_feed.hide != true %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    {% endif %}
-  </ul>
-</div>
-{% endif %}
+<style>
+.custom-footer {
+  background-color: #3a3f47;
+  color: #ffffff;
+  padding: 30px 0;
+  margin-top: 50px;
+}
 
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' %}}
+.custom-footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  flex-wrap: wrap;
+}
+
+.footer-logo {
+  flex: 0 0 150px;
+}
+
+.footer-logo img {
+  max-width: 120px;
+  height: auto;
+}
+
+.footer-info {
+  flex: 1 1 300px;
+  padding: 0 20px;
+}
+
+.footer-info h3 {
+  margin: 0 0 5px 0;
+  font-size: 1.2em;
+  color: #ffffff;
+}
+
+.footer-info p {
+  margin: 3px 0;
+  font-size: 0.95em;
+  color: #d1d1d1;
+}
+
+.footer-address {
+  flex: 1 1 250px;
+  padding: 0 20px;
+}
+
+.footer-address p {
+  margin: 3px 0;
+  font-size: 0.95em;
+  color: #d1d1d1;
+}
+
+.footer-links {
+  flex: 1 1 250px;
+  padding: 0 20px;
+}
+
+.footer-links h3 {
+  margin: 0 0 10px 0;
+  font-size: 1.1em;
+  color: #ffffff;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  margin: 5px 0;
+}
+
+.footer-links a {
+  color: #5bc0de;
+  text-decoration: none;
+  font-size: 0.95em;
+}
+
+.footer-links a:hover {
+  color: #31b0d5;
+  text-decoration: underline;
+}
+
+.footer-links i {
+  margin-right: 8px;
+  width: 20px;
+}
+
+@media (max-width: 768px) {
+  .custom-footer-content {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .footer-logo,
+  .footer-info,
+  .footer-address,
+  .footer-links {
+    flex: 1 1 100%;
+    padding: 10px 0;
+  }
+}
+</style>
+
+<div class="custom-footer">
+  <div class="custom-footer-content">
+    <div class="footer-logo">
+      {% if site.author.avatar %}
+        <img src="{{ site.author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ site.author.name }}">
+      {% endif %}
+    </div>
+    
+    <div class="footer-info">
+      <h3>{{ site.author.name }}</h3>
+      <p>Postdoctoral Researcher</p>
+      <p>Princeton University - SSR Lab</p>
+    </div>
+    
+    <div class="footer-address">
+      {% if site.author.location %}
+        <p>{{ site.author.location }}</p>
+      {% endif %}
+      {% if site.author.email %}
+        <p>{{ site.author.email }}</p>
+      {% endif %}
+    </div>
+    
+    <div class="footer-links">
+      <h3>Relevant links:</h3>
+      <ul>
+        {% if site.author.email %}
+          <li><i class="fas fa-envelope"></i><a href="mailto:{{ site.author.email }}">Email</a></li>
+        {% endif %}
+        {% if site.author.linkedin %}
+          <li><i class="fab fa-linkedin"></i><a href="{{ site.author.linkedin }}" target="_blank">LinkedIn</a></li>
+        {% endif %}
+        {% if site.author.googlescholar %}
+          <li><i class="fas fa-graduation-cap"></i><a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar</a></li>
+        {% endif %}
+        {% if site.author.github %}
+          <li><i class="fab fa-github"></i><a href="https://github.com/{{ site.author.github }}" target="_blank">Github</a></li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
 </div>
