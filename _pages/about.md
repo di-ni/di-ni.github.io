@@ -10,16 +10,10 @@ redirect_from:
 <style>
   body {
     background-image: url('/images/fish-background.png');
-    background-size: auto;
+    background-size: cover;
     background-position: center;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-attachment: fixed;
-  }
-  
-  .sidebar {
-    background-color: rgba(255, 255, 255, 0.9);
-    padding: 20px;
-    border-radius: 10px;
   }
   
   .page__content {
