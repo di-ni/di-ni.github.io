@@ -5,10 +5,22 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  overlay_image: /images/fish-background.png
-  overlay_filter: 0.3
 ---
+
+<style>
+  .page {
+    background-image: url('/images/fish-background.png');
+    background-size: auto;
+    background-position: center;
+    background-repeat: repeat;
+  }
+  
+  .page__content {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+  }
+</style>
 
 ⚠️ This website is currently under constuction. More features coming soon! ⚠️
 
