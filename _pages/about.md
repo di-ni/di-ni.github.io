@@ -8,11 +8,18 @@ redirect_from:
 ---
 
 <style>
-  .page {
+  body {
     background-image: url('/images/fish-background.png');
     background-size: auto;
     background-position: center;
     background-repeat: repeat;
+    background-attachment: fixed;
+  }
+  
+  .sidebar {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
   }
   
   .page__content {
