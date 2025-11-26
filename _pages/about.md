@@ -28,7 +28,7 @@ redirect_from:
 Welcome! 
 
 My name is Di (pronounced "Dee") and I am a Postdoctoral Researcher at Princeton University.
-My research aims to develop **small-scale robot collectives** that are adaptive, robust, and scalable, allowing them to function effectively in real-world environments and broaden how we sense and interact with our surroundings.
+My research aims to develop **small-scale robot collectives** that are scalable, robust, and adaptive, allowing them to function effectively in real-world environments and broaden how we sense and interact with our surroundings.
 
 <!-- I am interesting in building small-scale robots, and using them to explore **biomechanisms** and **collective intelligence**. Currently, I am working on understanding the hydrodynamics and swarm formation within fish schools using [BlueSwarm](https://www.youtube.com/watch?v=qVsu49f-Vf0&list=PL5un2Fe_yAiYdaIzqtSwfymygPMVxKAmH). -->
 
