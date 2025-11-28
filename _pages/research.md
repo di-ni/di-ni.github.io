@@ -84,6 +84,10 @@ real-world deployment.
     <div style="flex: 1; text-align: center;">
         <img src="/images/Di-research-2.1.png" alt="Research Image" style="width: 100%; max-width: 500px;">
         <video width="100%" autoplay loop muted playsinline>
+                    <source src="/images/bluebot_free_swimming_seagrass_trimmed.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+        <video width="100%" autoplay loop muted playsinline>
                     <source src="/images/Di-research video dualcamera mangrove low res.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
