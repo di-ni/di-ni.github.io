@@ -29,7 +29,7 @@ Welcome!
 
 My name is Di (pronounced "Dee").
 
-My research focuses on developing **small-scale robotic collectives** that are scalable, robust, and adaptive, enabling new modes of robotic operation in dynamic, unstructured environments. I study how these systems can be designed to sense, decide, and act collectively, expanding how we observe and interact with complex surroundings. My work targets field deployment, including autonomous inspection, minimally invasive monitoring, and parallelized sensing and detection. 
+My research focuses on developing **small-scale robotic collectives** that are scalable, robust, and adaptive, enabling new modes of robotic operation in dynamic, unstructured environments. I study how these systems can be designed to perceive, decide, and act collectively, expanding how we observe and interact with complex surroundings. My work targets field deployment, including autonomous inspection, minimally invasive monitoring, and parallelized sensing and detection. 
 
 <!--My research aims to develop **small-scale robot collectives** that are scalable, robust, and adaptive, allowing them to function effectively in real-world environments and broaden how we sense and interact with our surroundings.-->
 
