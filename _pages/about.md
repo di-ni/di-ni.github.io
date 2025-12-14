@@ -28,7 +28,10 @@ redirect_from:
 Welcome! 
 
 My name is Di (pronounced "Dee").
-My research aims to develop **small-scale robot collectives** that are scalable, robust, and adaptive, allowing them to function effectively in real-world environments and broaden how we sense and interact with our surroundings.
+
+My research focuses on developing **small-scale robotic collectives** that are scalable, robust, and adaptive, enabling reliable operation in real-world environments. I study how these systems can be designed to sense, decide, and act collectively, expanding how we observe and interact with complex surroundings. My work targets new applications of these robotic systems, particularly autonomous inspection, surveillance, and long-term monitoring, where robustness and adaptability at small scales are critical.
+
+<!--My research aims to develop **small-scale robot collectives** that are scalable, robust, and adaptive, allowing them to function effectively in real-world environments and broaden how we sense and interact with our surroundings.-->
 
 <!-- I am interesting in building small-scale robots, and using them to explore **biomechanisms** and **collective intelligence**. Currently, I am working on understanding the hydrodynamics and swarm formation within fish schools using [BlueSwarm](https://www.youtube.com/watch?v=qVsu49f-Vf0&list=PL5un2Fe_yAiYdaIzqtSwfymygPMVxKAmH). -->
 
