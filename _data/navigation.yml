@@ -13,6 +13,9 @@ main:
   - title: "Home"
     url: /about/
 
+  - title: "Lab"
+    url: https://dilab-lehigh.github.io/index.html
+
   - title: "Bio"
     url: /bio/
 
