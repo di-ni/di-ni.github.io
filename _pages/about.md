@@ -23,9 +23,10 @@ redirect_from:
   }
 </style>
 
-<!-- ⚠️ This website is currently under constuction. More features coming soon! ⚠️ -->
 
 Welcome! 
+
+🎉 I am honored to join Lehigh University as a tenure-track assistant professor since 2026. Please check my lab website ([DI-Lab](https://dilab-lehigh.github.io/)) for more current information!
 
 My research focuses on developing **small-scale robotic collectives** that are scalable, robust, and adaptive, enabling new modes of robotic operation in dynamic, unstructured environments. I study how these systems can be designed to perceive, decide, and act collectively, expanding how we observe and interact with complex surroundings. My work targets field deployment, including autonomous inspection, minimally invasive monitoring, and parallelized sensing and detection. 
 
@@ -33,7 +34,7 @@ My research focuses on developing **small-scale robotic collectives** that are s
 
 <!-- I am interesting in building small-scale robots, and using them to explore **biomechanisms** and **collective intelligence**. Currently, I am working on understanding the hydrodynamics and swarm formation within fish schools using [BlueSwarm](https://www.youtube.com/watch?v=qVsu49f-Vf0&list=PL5un2Fe_yAiYdaIzqtSwfymygPMVxKAmH). -->
 
-I will be starting as an Assistant Professor at Lehigh University in 2026. I currently work in the awesome [SSR](https://ssr.princeton.edu/) lab with Prof. [Radhika Nagpal](https://www.radhikanagpal.org/). My research focuses on understanding the hydrodynamics and swarm formation within fish schools using a bioinspired robotic platform called [BlueSwarm](https://www.youtube.com/watch?v=qVsu49f-Vf0&list=PL5un2Fe_yAiYdaIzqtSwfymygPMVxKAmH).
+I have joined Lehigh University as an Assistant Professor in 2026. Prior to that, I worked in the awesome [SSR](https://ssr.princeton.edu/) lab with Prof. [Radhika Nagpal](https://www.radhikanagpal.org/). My research focuses on understanding the hydrodynamics and swarm formation within fish schools using a bioinspired robotic platform called [BlueSwarm](https://www.youtube.com/watch?v=qVsu49f-Vf0&list=PL5un2Fe_yAiYdaIzqtSwfymygPMVxKAmH).
 Before Princeton, I completed my Ph.D. in Electrical and Computer Engineering at Cornell University, advised by Prof. [Amit Lal](https://www.engineering.cornell.edu/faculty-directory/amit-lal). My doctoral research focused on developing novel actuators and power supplies for the insect-sized robotic platform. 
 <!-- Prior to that, I obtained a M.S. in Applied Physics from Cornell University and a B.S. in Physics from Beijing Normal University. -->
 
